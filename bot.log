@@ -1,0 +1,490 @@
+2025-11-26 18:13:21,954 - __main__ - INFO - База данных инициализирована
+2025-11-26 18:13:21,955 - __main__ - INFO - Бот запущен
+2025-11-26 18:13:21,957 - aiogram.dispatcher - INFO - Start polling
+2025-11-26 18:13:22,454 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-26 18:13:22,586 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-26 18:13:22,604 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-26 18:13:22,606 - aiogram.event - INFO - Update id=661938661 is handled. Duration 20 ms by bot id=8217659766
+2025-11-26 18:13:22,616 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-26 18:13:22,620 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-26 18:13:22,621 - aiogram.event - INFO - Update id=661938659 is handled. Duration 36 ms by bot id=8217659766
+2025-11-26 18:13:35,671 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-26 18:13:35,697 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-26 18:13:35,701 - aiogram.event - INFO - Update id=661938662 is handled. Duration 31 ms by bot id=8217659766
+2025-11-26 18:13:37,658 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-26 18:13:37,674 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-26 18:13:37,676 - aiogram.event - INFO - Update id=661938663 is handled. Duration 21 ms by bot id=8217659766
+2025-11-26 18:13:51,037 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-26 18:13:51,048 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-26 18:13:51,050 - aiogram.event - INFO - Update id=661938664 is handled. Duration 40 ms by bot id=8217659766
+2025-11-26 18:20:24,560 - aiogram.event - INFO - Update id=661938665 is not handled. Duration 17 ms by bot id=8217659766
+2025-11-26 20:58:07,380 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-11-26 20:58:07,394 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-26 20:58:18,973 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8217659766)
+2025-11-28 20:08:10,450 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:08:10,452 - __main__ - INFO - Бот запущен
+2025-11-28 20:08:10,454 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:08:11,315 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:08:11,491 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:11,530 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:11,533 - aiogram.event - INFO - Update id=661938666 is handled. Duration 66 ms by bot id=8217659766
+2025-11-28 20:08:11,542 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:11,547 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:11,548 - aiogram.event - INFO - Update id=661938667 is handled. Duration 14 ms by bot id=8217659766
+2025-11-28 20:08:46,993 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:46,996 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:46,998 - aiogram.event - INFO - Update id=661938668 is handled. Duration 5 ms by bot id=8217659766
+2025-11-28 20:08:47,742 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:47,745 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:47,746 - aiogram.event - INFO - Update id=661938669 is handled. Duration 5 ms by bot id=8217659766
+2025-11-28 20:08:51,835 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:51,838 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:51,839 - aiogram.event - INFO - Update id=661938670 is handled. Duration 9 ms by bot id=8217659766
+2025-11-28 20:08:52,393 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:52,396 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:52,397 - aiogram.event - INFO - Update id=661938671 is handled. Duration 5 ms by bot id=8217659766
+2025-11-28 20:08:52,804 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:08:52,808 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:08:52,810 - aiogram.event - INFO - Update id=661938672 is handled. Duration 7 ms by bot id=8217659766
+2025-11-28 20:08:56,493 - middleware.logging - INFO - 📨 Сообщение от 8217659766 (@AiMi_help_bot): Город: Тараз
+
+Выбери категорию:
+2025-11-28 20:08:57,094 - aiogram.event - INFO - Update id=661938673 is handled. Duration 602 ms by bot id=8217659766
+2025-11-28 20:09:07,097 - middleware.logging - INFO - 📨 Сообщение от 8217659766 (@AiMi_help_bot): 😔 Курсов не найдено. Попробуй другие параметры.
+2025-11-28 20:09:07,445 - aiogram.event - INFO - Update id=661938674 is handled. Duration 348 ms by bot id=8217659766
+2025-11-28 20:09:10,269 - aiogram.event - INFO - Update id=661938675 is not handled. Duration 6 ms by bot id=8217659766
+2025-11-28 20:09:12,398 - middleware.logging - INFO - 📨 Сообщение от 8217659766 (@AiMi_help_bot): 🏙 Выбери город:
+2025-11-28 20:09:12,781 - aiogram.event - INFO - Update id=661938676 is handled. Duration 384 ms by bot id=8217659766
+2025-11-28 20:09:19,733 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if event.message:
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:09:19,736 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:09:19,737 - aiogram.event - INFO - Update id=661938677 is handled. Duration 4 ms by bot id=8217659766
+2025-11-28 20:10:47,612 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:10:47,622 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:10:47,624 - aiogram.event - INFO - Update id=661938678 is handled. Duration 12 ms by bot id=8217659766
+2025-11-28 20:11:01,650 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:11:01,653 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:11:01,655 - aiogram.event - INFO - Update id=661938679 is handled. Duration 6 ms by bot id=8217659766
+2025-11-28 20:11:03,147 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:11:03,152 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:11:03,154 - aiogram.event - INFO - Update id=661938680 is handled. Duration 12 ms by bot id=8217659766
+2025-11-28 20:11:15,662 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:11:15,669 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:11:15,671 - aiogram.event - INFO - Update id=661938681 is handled. Duration 11 ms by bot id=8217659766
+2025-11-28 20:11:23,721 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:11:23,726 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:11:23,729 - aiogram.event - INFO - Update id=661938682 is handled. Duration 9 ms by bot id=8217659766
+2025-11-28 20:11:51,541 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+    if isinstance(event, Message):
+       ^^^^^^^^^^^^^
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:11:51,550 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:11:51,552 - aiogram.event - INFO - Update id=661938683 is handled. Duration 11 ms by bot id=8217659766
+2025-11-28 20:12:23,306 - middleware.error_handler - ERROR - Ошибка при обработке обновления: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "C:\Users\amangali\Desktop\code bot\middleware\error_handler.py", line 23, in __call__
+  File "C:\Users\amangali\Desktop\code bot\middleware\logging.py", line 24, in __call__
+  File "C:\Users\amangali\AppData\Local\Programs\Python\Python313\Lib\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 20:12:23,337 - middleware.error_handler - ERROR - Не удалось отправить сообщение об ошибке: 'Message' object has no attribute 'message'
+2025-11-28 20:12:23,339 - aiogram.event - INFO - Update id=661938684 is handled. Duration 34 ms by bot id=8217659766
+2025-11-28 20:12:30,326 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:12:30,329 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:12:30,329 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:12:30,592 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:12:45,946 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:12:45,947 - __main__ - INFO - Бот запущен
+2025-11-28 20:12:45,948 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:12:46,431 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:12:46,602 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:12:46,603 - aiogram.event - INFO - Update id=661938685 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:12:49,155 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:12:49,156 - aiogram.event - INFO - Update id=661938686 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:13:00,001 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:13:00,002 - aiogram.event - INFO - Update id=661938687 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:13:04,669 - middleware.logging - INFO - 📨 Сообщение от 545222914 (@yesbulatovaz): /start
+2025-11-28 20:13:04,670 - aiogram.event - INFO - Update id=661938688 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:13:24,377 - middleware.logging - INFO - 📨 Сообщение от 545222914 (@yesbulatovaz): /start
+2025-11-28 20:13:24,377 - aiogram.event - INFO - Update id=661938689 is handled. Duration 2 ms by bot id=8217659766
+2025-11-28 20:13:31,791 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:13:31,792 - aiogram.event - INFO - Update id=661938690 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:13:40,752 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:13:40,753 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:13:40,754 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:13:41,016 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:15:07,656 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:15:07,657 - __main__ - INFO - Бот запущен
+2025-11-28 20:15:07,658 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:15:08,155 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:15:11,337 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:15:11,338 - aiogram.event - INFO - Update id=661938691 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:15:20,857 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:15:20,858 - aiogram.event - INFO - Update id=661938692 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:15:24,991 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:15:24,993 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:15:24,993 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:15:25,245 - __main__ - INFO - Операция отменена
+2025-11-28 20:15:25,246 - __main__ - INFO - Завершение работы бота...
+2025-11-28 20:15:25,247 - __main__ - INFO - Сессия бота закрыта
+2025-11-28 20:15:25,249 - __main__ - INFO - Бот остановлен
+2025-11-28 20:15:25,250 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:16:49,230 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:16:49,231 - __main__ - INFO - Бот запущен
+2025-11-28 20:16:49,232 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:16:49,715 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:16:49,886 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:16:49,887 - aiogram.event - INFO - Update id=661938693 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:16:54,449 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:16:54,450 - aiogram.event - INFO - Update id=661938694 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:16:59,442 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:16:59,443 - aiogram.event - INFO - Update id=661938695 is handled. Duration 1 ms by bot id=8217659766
+2025-11-28 20:17:00,922 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:17:00,923 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:17:00,924 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:17:01,184 - __main__ - INFO - Операция отменена
+2025-11-28 20:17:01,185 - __main__ - INFO - Завершение работы бота...
+2025-11-28 20:17:01,187 - __main__ - INFO - Сессия бота закрыта
+2025-11-28 20:17:01,188 - __main__ - INFO - Бот остановлен
+2025-11-28 20:17:01,191 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:19:58,585 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:19:58,588 - __main__ - INFO - Бот запущен
+2025-11-28 20:19:58,589 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:19:59,042 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:19:59,240 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:19:59,242 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:19:59,253 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:19:59,735 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:19:59,739 - aiogram.event - INFO - Update id=661938696 is handled. Duration 500 ms by bot id=8217659766
+2025-11-28 20:20:03,296 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 💳 Мои платежи
+2025-11-28 20:20:03,465 - aiogram.event - INFO - Update id=661938697 is handled. Duration 169 ms by bot id=8217659766
+2025-11-28 20:20:06,481 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:06,482 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:06,497 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:06,665 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:06,665 - aiogram.event - INFO - Update id=661938698 is handled. Duration 185 ms by bot id=8217659766
+2025-11-28 20:20:12,458 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:20:12,669 - aiogram.event - INFO - Update id=661938699 is handled. Duration 211 ms by bot id=8217659766
+2025-11-28 20:20:14,299 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:14,300 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:14,314 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:14,525 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:14,526 - aiogram.event - INFO - Update id=661938700 is handled. Duration 228 ms by bot id=8217659766
+2025-11-28 20:20:16,199 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:20:16,375 - aiogram.event - INFO - Update id=661938701 is handled. Duration 176 ms by bot id=8217659766
+2025-11-28 20:20:17,277 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🎫 Мои абонементы
+2025-11-28 20:20:17,477 - aiogram.event - INFO - Update id=661938702 is handled. Duration 200 ms by bot id=8217659766
+2025-11-28 20:20:18,231 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 💳 Мои платежи
+2025-11-28 20:20:18,438 - aiogram.event - INFO - Update id=661938703 is handled. Duration 209 ms by bot id=8217659766
+2025-11-28 20:20:19,662 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🕒 Расписание
+2025-11-28 20:20:19,902 - aiogram.event - INFO - Update id=661938704 is handled. Duration 240 ms by bot id=8217659766
+2025-11-28 20:20:20,972 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📊 Статистика
+2025-11-28 20:20:21,151 - aiogram.event - INFO - Update id=661938705 is handled. Duration 179 ms by bot id=8217659766
+2025-11-28 20:20:22,251 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🆘 Поддержка
+2025-11-28 20:20:22,450 - aiogram.event - INFO - Update id=661938706 is handled. Duration 200 ms by bot id=8217659766
+2025-11-28 20:20:23,621 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:23,622 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:23,630 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:23,786 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:23,787 - aiogram.event - INFO - Update id=661938707 is handled. Duration 166 ms by bot id=8217659766
+2025-11-28 20:20:26,047 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:20:26,230 - aiogram.event - INFO - Update id=661938708 is handled. Duration 184 ms by bot id=8217659766
+2025-11-28 20:20:29,945 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:29,948 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:29,958 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:30,265 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:30,268 - aiogram.event - INFO - Update id=661938709 is handled. Duration 324 ms by bot id=8217659766
+2025-11-28 20:20:43,689 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:43,690 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:43,695 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:43,895 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:43,896 - aiogram.event - INFO - Update id=661938710 is handled. Duration 208 ms by bot id=8217659766
+2025-11-28 20:20:45,316 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:20:45,495 - aiogram.event - INFO - Update id=661938711 is handled. Duration 180 ms by bot id=8217659766
+2025-11-28 20:20:47,076 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:20:47,077 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:20:47,083 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:20:47,289 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:20:47,291 - aiogram.event - INFO - Update id=661938712 is handled. Duration 218 ms by bot id=8217659766
+2025-11-28 20:21:09,147 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🎫 Мои абонементы
+2025-11-28 20:21:09,340 - aiogram.event - INFO - Update id=661938713 is handled. Duration 195 ms by bot id=8217659766
+2025-11-28 20:21:10,605 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 💳 Мои платежи
+2025-11-28 20:21:10,828 - aiogram.event - INFO - Update id=661938714 is handled. Duration 227 ms by bot id=8217659766
+2025-11-28 20:21:13,540 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🕒 Расписание
+2025-11-28 20:21:13,729 - aiogram.event - INFO - Update id=661938715 is handled. Duration 190 ms by bot id=8217659766
+2025-11-28 20:21:14,759 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:21:14,759 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:21:14,769 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:21:14,928 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:21:14,930 - aiogram.event - INFO - Update id=661938716 is handled. Duration 172 ms by bot id=8217659766
+2025-11-28 20:21:52,405 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:21:52,406 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:21:52,413 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:21:52,634 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:21:52,638 - aiogram.event - INFO - Update id=661938717 is handled. Duration 237 ms by bot id=8217659766
+2025-11-28 20:21:54,526 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:21:54,752 - aiogram.event - INFO - Update id=661938718 is handled. Duration 226 ms by bot id=8217659766
+2025-11-28 20:22:43,647 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:22:43,648 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:22:43,653 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:22:43,812 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:22:43,813 - aiogram.event - INFO - Update id=661938719 is handled. Duration 166 ms by bot id=8217659766
+2025-11-28 20:22:44,867 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🎫 Мои абонементы
+2025-11-28 20:22:45,064 - aiogram.event - INFO - Update id=661938720 is handled. Duration 197 ms by bot id=8217659766
+2025-11-28 20:22:57,382 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:22:57,384 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:22:57,385 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:22:57,651 - __main__ - INFO - Операция отменена
+2025-11-28 20:22:57,651 - __main__ - INFO - Завершение работы бота...
+2025-11-28 20:22:57,652 - __main__ - INFO - Сессия бота закрыта
+2025-11-28 20:22:57,653 - __main__ - INFO - Бот остановлен
+2025-11-28 20:22:57,654 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:39:20,557 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:39:20,577 - __main__ - INFO - Бот запущен
+2025-11-28 20:39:20,578 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:39:21,424 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:39:21,587 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:39:21,588 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:39:21,615 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:39:22,138 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:39:22,139 - aiogram.event - INFO - Update id=661938721 is handled. Duration 560 ms by bot id=8217659766
+2025-11-28 20:39:24,694 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🎫 Мои абонементы
+2025-11-28 20:39:24,879 - aiogram.event - INFO - Update id=661938722 is handled. Duration 185 ms by bot id=8217659766
+2025-11-28 20:39:25,971 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:39:26,135 - aiogram.event - INFO - Update id=661938723 is handled. Duration 164 ms by bot id=8217659766
+2025-11-28 20:39:27,226 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:39:27,227 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:39:27,233 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:39:27,412 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:39:27,413 - aiogram.event - INFO - Update id=661938724 is handled. Duration 189 ms by bot id=8217659766
+2025-11-28 20:39:28,488 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 💳 Мои платежи
+2025-11-28 20:39:28,651 - aiogram.event - INFO - Update id=661938725 is handled. Duration 163 ms by bot id=8217659766
+2025-11-28 20:39:29,665 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:39:29,666 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:39:29,673 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:39:29,864 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:39:29,866 - aiogram.event - INFO - Update id=661938726 is handled. Duration 201 ms by bot id=8217659766
+2025-11-28 20:39:31,410 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📊 Статистика
+2025-11-28 20:39:31,640 - aiogram.event - INFO - Update id=661938727 is handled. Duration 230 ms by bot id=8217659766
+2025-11-28 20:39:32,763 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:39:32,764 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:39:32,769 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:39:32,972 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:39:32,973 - aiogram.event - INFO - Update id=661938728 is handled. Duration 211 ms by bot id=8217659766
+2025-11-28 20:47:05,499 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:47:05,517 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:47:05,518 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:47:05,770 - __main__ - INFO - Операция отменена
+2025-11-28 20:47:05,770 - __main__ - INFO - Завершение работы бота...
+2025-11-28 20:47:05,773 - __main__ - INFO - Сессия бота закрыта
+2025-11-28 20:47:05,773 - __main__ - INFO - Бот остановлен
+2025-11-28 20:47:05,774 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:47:18,841 - __main__ - INFO - База данных инициализирована
+2025-11-28 20:47:18,843 - __main__ - INFO - Бот запущен
+2025-11-28 20:47:18,844 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 20:47:19,477 - aiogram.dispatcher - INFO - Run polling for bot @AiMi_help_bot id=8217659766 - 'AiMi'
+2025-11-28 20:47:26,907 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 📚 Каталог курсов
+2025-11-28 20:47:27,397 - aiogram.event - INFO - Update id=661938729 is handled. Duration 491 ms by bot id=8217659766
+2025-11-28 20:47:28,984 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): /start
+2025-11-28 20:47:28,985 - handlers.common - INFO - Обработка /start от пользователя 8213102194
+2025-11-28 20:47:28,991 - handlers.common - INFO - Роль пользователя 8213102194: user
+2025-11-28 20:47:29,143 - handlers.common - INFO - Успешно обработан /start для пользователя 8213102194
+2025-11-28 20:47:29,144 - aiogram.event - INFO - Update id=661938730 is handled. Duration 160 ms by bot id=8217659766
+2025-11-28 20:47:30,088 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 🎫 Мои абонементы
+2025-11-28 20:47:30,246 - aiogram.event - INFO - Update id=661938731 is handled. Duration 158 ms by bot id=8217659766
+2025-11-28 20:47:32,342 - middleware.logging - INFO - 📨 Сообщение от 8213102194 (@Devvvelopeerr): 💳 Мои платежи
+2025-11-28 20:47:32,503 - aiogram.event - INFO - Update id=661938732 is handled. Duration 161 ms by bot id=8217659766
+2025-11-28 20:47:35,265 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 20:47:35,267 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-28 20:47:35,268 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8217659766)
+2025-11-28 20:47:35,520 - __main__ - INFO - Операция отменена
+2025-11-28 20:47:35,521 - __main__ - INFO - Завершение работы бота...
+2025-11-28 20:47:35,523 - __main__ - INFO - Сессия бота закрыта
+2025-11-28 20:47:35,524 - __main__ - INFO - Бот остановлен
+2025-11-28 20:47:35,526 - aiogram.dispatcher - INFO - Polling stopped for bot @AiMi_help_bot id=8217659766 - 'AiMi'
